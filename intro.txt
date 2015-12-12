@@ -1,0 +1,6 @@
+virtualenv --python=python3.4 myvenv
+
+start virtual environment
+source myvenv/bin/activate
+
+pip install django==1.8
