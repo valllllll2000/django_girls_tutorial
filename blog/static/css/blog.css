@@ -1,10 +1,11 @@
 h1 a {
     color: #FCA205;
-    font-family: 'Lobster'
+    font-family: 'Orbitron'
 }
 
 body {
     padding-left: 15px;
+    font-family: 'Quicksand'
 }
 
 .page-header {
@@ -24,7 +25,7 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Orbitron', cursive;
 }
 
 .date {
